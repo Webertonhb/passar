@@ -1,11 +1,3 @@
-package condicional;
-
-import java.util.Scanner;
-
-public class Semana {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int dia;
 
         Scanner sc = new Scanner(System.in);
